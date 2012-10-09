@@ -695,6 +695,7 @@
 		<KeyWord name="FlipCameraYaw" />
 		<KeyWord name="FocusUnit" />
 		<KeyWord name="FollowUnit" />
+		<KeyWord name="FontTemplate" />
 		<KeyWord name="ForceGossip" />
 		<KeyWord name="ForceLogout" />
 		<KeyWord name="ForceQuit" />
@@ -2762,6 +2763,7 @@
 		<KeyWord name="SetIndentedWordWrap" />
 		<KeyWord name="SetInitialOffset" />
 		<KeyWord name="SetInsertMode" />
+		<KeyWord name="SetInside" />
 		<KeyWord name="SetInstanceLockEncountersComplete" />
 		<KeyWord name="SetInventoryItem" />
 		<KeyWord name="SetInventoryItemByID" />
@@ -2842,6 +2844,7 @@
 		<KeyWord name="SetOrder" />
 		<KeyWord name="SetOrientation" />
 		<KeyWord name="SetOrigin" />
+		<KeyWord name="SetOutside" />
 		<KeyWord name="SetOverrideBinding" />
 		<KeyWord name="SetOverrideBindingClick" />
 		<KeyWord name="SetOverrideBindingItem" />
